@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sprintora/static/css/main.408ccf2d.css",
-    "main.js": "/Sprintora/static/js/main.46894ce7.js",
-    "index.html": "/Sprintora/index.html",
-    "main.408ccf2d.css.map": "/Sprintora/static/css/main.408ccf2d.css.map",
-    "main.46894ce7.js.map": "/Sprintora/static/js/main.46894ce7.js.map"
+    "main.css": "/sprintora-development/static/css/main.408ccf2d.css",
+    "main.js": "/sprintora-development/static/js/main.46894ce7.js",
+    "index.html": "/sprintora-development/index.html",
+    "main.408ccf2d.css.map": "/sprintora-development/static/css/main.408ccf2d.css.map",
+    "main.46894ce7.js.map": "/sprintora-development/static/js/main.46894ce7.js.map"
   },
   "entrypoints": [
     "static/css/main.408ccf2d.css",
